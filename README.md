@@ -14,7 +14,7 @@ A text-based program that prints lyrics word by word with timed delays, simulati
 ### C++ Version:
 1. Download the `main.cpp` file.
 2. Compile and run using a C++ compiler (e.g., g++ or clang++).
-   ```~bash
+   ```bash
    g++ main.cpp -o song
    ./song
    ```
@@ -22,17 +22,17 @@ A text-based program that prints lyrics word by word with timed delays, simulati
 ### Python Version:
 1. Download the `main.py` file.
 2. Run it with Python 3.x.
-   ```~bash
+   ```bash
    python3 main.py
    ```
 
 ### Java Version:
-1. Download the `main.java` file.
-2. Compile and run using Java.
-   ``~bash
-   javac main.java
+1. Download the `LirikPrinter.java` file.
+2. Compile and run it using Java:
+   ```bash
+   javac LirikPrinter.java
    java Main
-   ```
+
 
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests to improve or add features.
