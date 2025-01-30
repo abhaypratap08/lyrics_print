@@ -27,10 +27,10 @@ A text-based program that prints lyrics word by word with timed delays, simulati
    ```
 
 ### Java Version:
-1. Download the `LirikPrinter.java` file.
+1. Download the `main.java` file.
 2. Compile and run it using Java:
    ```bash
-   javac LirikPrinter.java
+   javac main.java
    java Main
 
 
